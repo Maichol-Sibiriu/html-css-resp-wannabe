@@ -71,3 +71,7 @@ img {
 .clear {
   clear: both;
 }
+
+.row{
+  max-width: 100%;
+}
